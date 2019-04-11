@@ -1,0 +1,20 @@
+{
+  "name": "siteNeracore",
+  "homepage": "https://github.com/renanglen/neracore",
+  "authors": [
+    "Renan Glen <renan.glen7@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
